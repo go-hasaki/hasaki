@@ -1,0 +1,12 @@
+# goland project files
+.idea
+.fleet
+
+# windows thumbnail cache
+Thumbs.db
+
+# go mod vendor dir
+/vendor
+
+# Mac DS_Store Files
+.DS_Store
